@@ -1,4 +1,4 @@
-fetch('/data/skins.json')
+fetch('data/skins.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("skins-container");
