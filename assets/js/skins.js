@@ -1,4 +1,4 @@
-fetch('data/skins.json')
+fetch('/myucchii.io/data/skins.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("skins-container");
