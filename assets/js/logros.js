@@ -62,7 +62,7 @@ function renderAchievements(logros) {
               </div>` : ''}
           </div>
           <a href="${logro.enlace}" class="tournament-link" target="_blank">
-            Ver detalles del torneo
+            Tournament details
             <img src="./assets/icons/osu.svg" width="20" height="20" style="margin-left: 10px;" alt="Enlace">
           </a>
         </div>
