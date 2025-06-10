@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact me - myucchii 🌸</title>
+  <link rel="stylesheet" href="assets/css/style4.css">
+</head>
+<body>
+  <a href="index.html" class="back-button">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+      <path d="M15 18L9 12L15 6" stroke="#f5f5f5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    Back
+  </a>
+
+  <div class="contact-container">
+    <h1>Contact me</h1>
+    <form id="contact-form" action="https://formspree.io/f/mblygzvy" method="POST" novalidate>
+      <input type="text" name="nombre" id="name" placeholder="Your name here" required>
+      <input type="email" name="email" id="email" placeholder="Your email" required>
+      <textarea name="mensaje" id="message" rows="5" placeholder="Tell me what is it... Business inquiries, proposal, requesting a map, ideas for videos..." required></textarea>
+      <button type="submit">Send</button>
+    </form>
+    <p class="form-message" id="form-message"></p>
+    <p class="discord-note">And if you'd like, you can contact me on Discord as well: <strong>@myuker</strong></p>
+  </div>
+
+<script src="assets/js/contact.js"></script>
+</body>
+</html>
