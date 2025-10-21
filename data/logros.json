@@ -175,6 +175,28 @@
       "equipo": "Retirados y Peligrosos (myucchii, LeMarcinho, fefedk, MyAngelKokomi)",
       "imagen": "https://i.ppy.sh/caec772d29f11c1d867641c8eb6faa505a2cf5a0/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f544d432f3474682f696d672f62616e6e65724032782e6a7067",
       "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/TMC/4th"
+    },
+    {
+      "torneo": "GB Cup 2025 Spring",
+      "puesto": "1st place",
+      "anio": 2025,
+      "modo": "mania",
+      "descripcion": "Was bad at the start then really good at the ending.",
+      "team": false,
+      "equipo": "",
+      "imagen": "https://i.ppy.sh/a8d0d98c5f98dc3a37c009cdeec75f129bfe7b28/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f4742432f4742435f323032355f537072696e672f696d672f4742432d323032352d537072696e672d62616e6e65722e706e67",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/GBC/GBC_2025_Spring"
+    },
+    {
+      "torneo": "osu!mania 4K World Cup 2025",
+      "puesto": "Top 6-5th (lost to Thailand 1-7 in Finals)",
+      "anio": 2025,
+      "modo": "mania",
+      "descripcion": "Complete opposite of the last year. One of the most blessed experiences I've ever had in mania tournaments.",
+      "team": true,
+      "equipo": "Chile (Naito Mare, myucchii, bambi fnf, Anterex, maykolmejor, b3njvv2)",
+      "imagen": "https://i.ppy.sh/835a4c4666f6933e6384777c2f2c7a2e7522735a/68747470733a2f2f6f73752e7070792e73682f77696b692f696d616765732f546f75726e616d656e74732f4d57432f323032355f344b2f696d672f6d7763346b323032352d62616e6e65722e6a7067",
+      "enlace": "https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_4K"
     }
   ]
 }

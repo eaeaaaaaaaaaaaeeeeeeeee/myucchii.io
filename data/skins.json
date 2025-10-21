@@ -151,12 +151,22 @@
   },
   {
     "name": "woohoohoo!",
-    "period": "2024-3000",
+    "period": "2024-2025",
     "images": [
       "assets/img/skinshowcase/46-min.png",
       "assets/img/skinshowcase/47-min.png",
       "assets/img/skinshowcase/48-min.png"
     ],
     "download": "https://www.mediafire.com/file/av07p1bbnmb7ay1/-_%2523_very_awesome_skin.osk/file"
+  },
+  {
+    "name": "woohoohoo! v2",
+    "period": "2025-3000",
+    "images": [
+      "assets/img/skinshowcase/49-min.png",
+      "assets/img/skinshowcase/50-min.png",
+      "assets/img/skinshowcase/51-min.png"
+    ],
+    "download": "https://files.catbox.moe/4ww5gw.osk"
   }
 ]
